@@ -1,0 +1,6 @@
+streamlit==1.65.0
+opencv-python==5.0.0.93
+ultralytics==8.4.173
+numpy==2.5.3
+pillow==12.3.0
+python-dotenv==1.2.4
